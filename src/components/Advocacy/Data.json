@@ -1,0 +1,51 @@
+[
+	{
+		"title": "Tails",
+		"sub": "Security Focused OS",
+		"link": "https://tails.boum.org/",
+		"image": "https://nvor.net/assets/images/tails-OS.svg",
+		"desc": "A Debian based operating system that force routes all incoming and outcoming connections through Tor and only writes to RAM unless specifically specified, enabling the OS to not leave a digital footprint."
+	},
+	{
+		"title": "Signal",
+		"sub": "Encrypted Messaging Service",
+		"link": "https://signal.org/en/",
+		"image": "https://nvor.net/assets/images/Signal.png",
+		"desc": "Signal is a cross-platform end-to-end encrypted messaging app. Signal users may create secure channels with one another for communicating several types of media, including text, voice, images, videos, and other binary data."
+	},
+	{
+		"title": "Tor (Browser)",
+		"sub": "Darknet Browser",
+		"link": "https://www.torproject.org/",
+		"image": "https://nvor.net/assets/images/Tor.png",
+		"desc": "The Tor browser anonymizes web traffic by automatically routing it through the Tor network and its supporting relays. It is also able to connect to Tor hidden sites (websites only accessible through Tor, often called onions and suffixed with a .onion domain)."
+	},
+	{
+		"title": "ProtonMail",
+		"sub": "Encrypted Email Service",
+		"link": "https://protonmail.com/",
+		"image": "https://nvor.net/assets/images/ProtonMail.png",
+		"desc": "ProtonMail is an end-to-end encrypted email service. Unlike the email services provided by Google, Microsoft, or other big tech companies, ProtonMail uses client-side encryption to encrypt your email content before it ever reaches the ProtonMail servers, maximizing the data privacy of the service."
+	},
+	{
+		"title": "DuckDuckGo",
+		"sub": "Privacy Search Engine",
+		"link": "https://duckduckgo.com/",
+		"image": "https://nvor.net/assets/images/DuckDuckGo.png",
+		"desc": "DuckDuckGo is a privacy focused internet search engine. Unlike Google and other major search engines, DuckDuckGo does not profile its users or create personalized search results."
+	},
+	{
+		"title": "VeraCrypt",
+		"sub": "Encryption Utility",
+		"link": "https://www.veracrypt.fr/code/VeraCrypt/",
+		"image": "https://nvor.net/assets/images/VeraCrypt.png",
+		"desc": "VeraCrypt is a software utility for performing on-the-fly encryption. It can be used to encrypt disk partitions, create encrypted virtual disks, and in the case of Windows, encrypt a storage device/EFI system (Linux has more substantial alternatives for disk encryption such as LUKS)."
+	},
+	{
+		"title": "Firefox",
+		"sub": "Open-Source Browser",
+		"link": "https://www.mozilla.org/",
+		"image": "https://nvor.net/assets/images/Firefox.png",
+		"desc": "Firefox has a long standing reputation as the go-to general web browser for those who value privacy and supporting the open-source community. It has been improved over the years to be a strong alternative to its competitors, and more importantly, its transparency and dedication to the security of the user makes adopting this browser as your general web browser a no brainer."
+	}
+]
