@@ -1,3 +1,7 @@
+# Info
+The original build is located at https://github.com/Nvor/nvor.net
+This is just a react version made for run.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
